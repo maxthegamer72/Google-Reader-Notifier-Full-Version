@@ -234,3 +234,6 @@ This repository serves as the official landing page for Google Reader Notifier. 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Google Reader Notifier today!**
+
+---
+**Last updated:** 2026-09-10 14:03:38 UTC
