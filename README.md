@@ -236,4 +236,4 @@ This repository serves as the official landing page for Google Reader Notifier. 
 **Get the most recent version of Google Reader Notifier today!**
 
 ---
-**Last updated:** 2026-09-14 21:29:12 UTC
+**Last updated:** 2026-09-15 00:16:58 UTC
